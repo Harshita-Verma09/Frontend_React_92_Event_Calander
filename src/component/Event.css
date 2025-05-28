@@ -1,0 +1,14 @@
+.rbc-date-cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    padding: 0.25rem;
+    transition: background-color 0.2s ease;
+  }
+  
+  .rbc-date-cell:hover {
+    background-color: rgba(107, 33, 168, 0.2); /* hover effect using purple-700 */
+    border-radius: 0.375rem;
+  }
+  
